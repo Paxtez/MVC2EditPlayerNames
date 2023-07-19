@@ -10,9 +10,9 @@ Edits 1ST_READ.BIN, .CDIs, .GDI, or .BIN files or any other format that keeps th
 
 #### USAGE:
 
-``EditNames.exe      <- Edits a 1ST_READ.BIN in the same path``
+``EditNames.exe                    <- Edits a 1ST_READ.BIN in the same path``
 
-``EditNames.exe "MVC2.CDI" <- Edit the .CDI file``
+``EditNames.exe "MVC2.CDI"         <- Edit the .CDI file``
 
 ``EditNames.exe "1ST_READ.BIN.bak" <- Edits this 1ST_READ``
 
