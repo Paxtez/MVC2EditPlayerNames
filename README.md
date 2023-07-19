@@ -8,6 +8,7 @@ Edits the saved Player Names inside a modded US Dreamcast Version of Marvel vs C
 
 Edits 1ST_READ.BIN, .CDIs, .GDI, or .BIN files or any other format that keeps the files mostly intact (no .ZIPs).
 
+
 #### USAGE:
 
 ``EditNames.exe                    <- Edits a 1ST_READ.BIN in the same path``
@@ -19,6 +20,11 @@ Edits 1ST_READ.BIN, .CDIs, .GDI, or .BIN files or any other format that keeps th
 
 
 My C/C++ code is very ugly, I learned this bastard version of it many years ago, and never unlearned it. Beware.
+
+
+#### DEMO
+
+![DEMO GIFt](EditNames.gif)
 
 #### PLAYER NAME DATA FORMAT
 In a 1ST_READ.BIN this may be at 0x1BAA80, but it may change, you can edit it by hand with a Hex Editor if you want.
